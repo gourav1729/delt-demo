@@ -1,2 +1,0 @@
-# delt-demo
-THIS IS DEMO FOR GITHUB CLASS.
